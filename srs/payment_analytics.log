@@ -1,0 +1,771 @@
+2025-05-04 11:22:38,006 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 11:22:38,006 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 11:22:38,007 - INFO - Данные успешно загружены
+2025-05-04 11:22:38,020 - INFO - Статистика успешно рассчитана
+2025-05-04 11:22:38,021 - ERROR - Ошибка при построении графика: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-05-04 11:22:38,021 - CRITICAL - Фатальная ошибка: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-05-04 11:24:43,285 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 11:24:43,285 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 11:24:43,286 - INFO - Данные успешно загружены
+2025-05-04 11:24:43,302 - INFO - Статистика успешно рассчитана
+2025-05-04 11:24:43,303 - ERROR - Ошибка при построении графика: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-05-04 11:24:43,303 - CRITICAL - Фатальная ошибка: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-05-04 11:46:24,231 - INFO - ==================================================
+2025-05-04 11:46:24,231 - INFO - Запуск анализа платежных данных
+2025-05-04 11:46:24,231 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 11:46:25,229 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 11:46:25,229 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 11:46:25,229 - INFO - Очистка данных в листе 'data'
+2025-05-04 11:46:25,234 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 11:46:25,236 - INFO - Данные успешно загружены и обработаны
+2025-05-04 11:46:25,249 - INFO - Статистика успешно рассчитана
+2025-05-04 11:46:26,083 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 11:46:26,086 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 11:46:26,110 - INFO - Создана директория: C:\Users\Public\PythonProject\payment analytics\data/results/plots
+2025-05-04 11:46:26,656 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 11:46:26,759 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 11:46:26,759 - INFO - Анализ успешно завершен!
+2025-05-04 11:46:26,759 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 11:46:26,759 - INFO - ==================================================
+2025-05-04 11:58:23,535 - INFO - ==================================================
+2025-05-04 11:58:23,535 - INFO - Запуск анализа платежных данных
+2025-05-04 11:58:23,535 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 11:58:24,450 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 11:58:24,451 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 11:58:24,451 - INFO - Очистка данных в листе 'data'
+2025-05-04 11:58:24,455 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 11:58:24,457 - INFO - Данные успешно загружены и обработаны
+2025-05-04 11:58:24,471 - INFO - Статистика успешно рассчитана
+2025-05-04 11:58:25,089 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 11:58:25,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 11:58:25,698 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 11:58:25,752 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 11:58:25,753 - INFO - Анализ успешно завершен!
+2025-05-04 11:58:25,753 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 11:58:25,753 - INFO - ==================================================
+2025-05-04 12:03:35,726 - INFO - ==================================================
+2025-05-04 12:03:35,727 - INFO - Запуск анализа платежных данных
+2025-05-04 12:03:35,727 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:03:36,694 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:03:36,694 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:03:36,695 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:03:36,700 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:03:36,702 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:03:36,715 - INFO - Статистика успешно рассчитана
+2025-05-04 12:03:37,310 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:03:37,315 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:03:37,896 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:03:37,937 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:03:37,937 - INFO - Анализ успешно завершен!
+2025-05-04 12:03:37,937 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:03:37,937 - INFO - ==================================================
+2025-05-04 12:09:18,991 - INFO - ==================================================
+2025-05-04 12:09:18,991 - INFO - Запуск анализа платежных данных
+2025-05-04 12:09:18,991 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:09:20,086 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:09:20,086 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:09:20,086 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:09:20,091 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:09:20,093 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:09:20,108 - INFO - Статистика успешно рассчитана
+2025-05-04 12:09:21,513 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:09:21,554 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:09:21,554 - INFO - Анализ успешно завершен!
+2025-05-04 12:09:21,554 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:09:21,554 - INFO - ==================================================
+2025-05-04 12:12:50,185 - INFO - ==================================================
+2025-05-04 12:12:50,186 - INFO - Запуск анализа платежных данных
+2025-05-04 12:12:50,186 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:12:51,109 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:12:51,109 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:12:51,110 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:12:51,115 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:12:51,117 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:12:51,130 - INFO - Статистика успешно рассчитана
+2025-05-04 12:12:51,476 - ERROR - Ошибка построения графика: Could not interpret value `country` for `hue`. Value is a string, but `data` was not passed.
+2025-05-04 12:12:51,477 - CRITICAL - Фатальная ошибка: Could not interpret value `country` for `hue`. Value is a string, but `data` was not passed.
+2025-05-04 12:15:27,854 - INFO - ==================================================
+2025-05-04 12:15:27,855 - INFO - Запуск анализа платежных данных
+2025-05-04 12:15:27,855 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:15:28,846 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:15:28,847 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:15:28,847 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:15:28,852 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:15:28,854 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:15:28,867 - INFO - Статистика успешно рассчитана
+2025-05-04 12:15:29,527 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:15:29,533 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:15:30,170 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:15:30,233 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:15:30,233 - INFO - Анализ успешно завершен!
+2025-05-04 12:15:30,233 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:15:30,233 - INFO - ==================================================
+2025-05-04 12:24:24,043 - INFO - ==================================================
+2025-05-04 12:24:24,044 - INFO - Запуск анализа платежных данных
+2025-05-04 12:24:24,044 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:24:24,950 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:24:24,950 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:24:24,950 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:24:24,955 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:24:24,957 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:24:24,970 - INFO - Статистика успешно рассчитана
+2025-05-04 12:24:25,573 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:24:25,580 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:24:26,186 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:24:26,250 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:24:26,250 - INFO - Анализ успешно завершен!
+2025-05-04 12:24:26,250 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:24:26,250 - INFO - ==================================================
+2025-05-04 12:26:38,599 - INFO - ==================================================
+2025-05-04 12:26:38,600 - INFO - Запуск анализа платежных данных
+2025-05-04 12:26:38,600 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:26:39,541 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:26:39,541 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:26:39,541 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:26:39,546 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:26:39,548 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:26:39,561 - INFO - Статистика успешно рассчитана
+2025-05-04 12:26:40,237 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:26:40,243 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:26:40,942 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:26:41,022 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:26:41,022 - INFO - Анализ успешно завершен!
+2025-05-04 12:26:41,023 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:26:41,023 - INFO - ==================================================
+2025-05-04 12:30:18,173 - INFO - ==================================================
+2025-05-04 12:30:18,173 - INFO - Запуск анализа платежных данных
+2025-05-04 12:30:18,173 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:30:19,080 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:30:19,080 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:30:19,081 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:30:19,086 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:30:19,088 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:30:19,102 - INFO - Статистика успешно рассчитана
+2025-05-04 12:30:19,701 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:30:19,707 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:30:20,326 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:30:20,384 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:30:20,384 - INFO - Анализ успешно завершен!
+2025-05-04 12:30:20,384 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:30:20,384 - INFO - ==================================================
+2025-05-04 12:31:05,160 - INFO - ==================================================
+2025-05-04 12:31:05,160 - INFO - Запуск анализа платежных данных
+2025-05-04 12:31:05,160 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:31:06,056 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:31:06,056 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:31:06,056 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:31:06,061 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:31:06,064 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:31:06,079 - INFO - Статистика успешно рассчитана
+2025-05-04 12:31:06,690 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:31:06,695 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:31:07,311 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:31:07,371 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:31:07,372 - INFO - Анализ успешно завершен!
+2025-05-04 12:31:07,372 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:31:07,372 - INFO - ==================================================
+2025-05-04 12:32:17,155 - INFO - ==================================================
+2025-05-04 12:32:17,155 - INFO - Запуск анализа платежных данных
+2025-05-04 12:32:17,155 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:32:18,209 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:32:18,209 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:32:18,210 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:32:18,215 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:32:18,218 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:32:18,233 - INFO - Статистика успешно рассчитана
+2025-05-04 12:32:18,880 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:32:18,886 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:32:19,524 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:32:19,569 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:32:19,569 - INFO - Анализ успешно завершен!
+2025-05-04 12:32:19,570 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:32:19,570 - INFO - ==================================================
+2025-05-04 12:37:44,928 - INFO - ==================================================
+2025-05-04 12:37:44,928 - INFO - Запуск анализа платежных данных
+2025-05-04 12:37:44,928 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:37:45,893 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:37:45,893 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:37:45,893 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:37:45,898 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:37:45,900 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:37:45,913 - INFO - Статистика успешно рассчитана
+2025-05-04 12:37:46,720 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:37:46,731 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:37:47,429 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:37:47,473 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:37:47,473 - INFO - Анализ успешно завершен!
+2025-05-04 12:37:47,473 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:37:47,473 - INFO - ==================================================
+2025-05-04 12:55:08,810 - INFO - ==================================================
+2025-05-04 12:55:08,810 - INFO - Запуск анализа платежных данных
+2025-05-04 12:55:08,810 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:55:09,813 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:55:09,813 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:55:09,813 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:55:09,818 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:55:09,820 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:55:09,834 - INFO - Статистика успешно рассчитана
+2025-05-04 12:55:10,497 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:55:10,504 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 12:55:11,184 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:55:11,266 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 12:55:11,266 - INFO - Анализ успешно завершен!
+2025-05-04 12:55:11,267 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 12:55:11,267 - INFO - ==================================================
+2025-05-04 12:58:55,736 - INFO - ==================================================
+2025-05-04 12:58:55,737 - INFO - Запуск анализа платежных данных
+2025-05-04 12:58:55,737 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 12:58:56,743 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 12:58:56,743 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 12:58:56,743 - INFO - Очистка данных в листе 'data'
+2025-05-04 12:58:56,748 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 12:58:56,751 - INFO - Данные успешно загружены и обработаны
+2025-05-04 12:58:56,764 - INFO - Статистика успешно рассчитана
+2025-05-04 12:58:57,407 - ERROR - Ошибка построения графика: Could not interpret value `` for `y`. An entry with this name does not appear in `data`.
+2025-05-04 12:58:57,407 - CRITICAL - Фатальная ошибка: Could not interpret value `` for `y`. An entry with this name does not appear in `data`.
+2025-05-04 13:00:52,611 - INFO - ==================================================
+2025-05-04 13:00:52,611 - INFO - Запуск анализа платежных данных
+2025-05-04 13:00:52,611 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:00:53,619 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:00:53,620 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:00:53,620 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:00:53,626 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:00:53,628 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:00:53,644 - INFO - Статистика успешно рассчитана
+2025-05-04 13:00:54,303 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:00:54,309 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:00:54,967 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:00:55,011 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:00:55,011 - INFO - Анализ успешно завершен!
+2025-05-04 13:00:55,011 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:00:55,011 - INFO - ==================================================
+2025-05-04 13:01:31,531 - INFO - ==================================================
+2025-05-04 13:01:31,531 - INFO - Запуск анализа платежных данных
+2025-05-04 13:01:31,531 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:01:32,468 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:01:32,469 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:01:32,469 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:01:32,473 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:01:32,475 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:01:32,489 - INFO - Статистика успешно рассчитана
+2025-05-04 13:01:33,301 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:01:33,310 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:01:34,047 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:01:34,133 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:01:34,134 - INFO - Анализ успешно завершен!
+2025-05-04 13:01:34,134 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:01:34,134 - INFO - ==================================================
+2025-05-04 13:06:05,611 - INFO - ==================================================
+2025-05-04 13:06:05,611 - INFO - Запуск анализа платежных данных
+2025-05-04 13:06:05,611 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:06:06,620 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:06:06,621 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:06:06,621 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:06:06,626 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:06:06,627 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:06:06,641 - INFO - Статистика успешно рассчитана
+2025-05-04 13:06:07,406 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:06:07,412 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:06:08,028 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:06:08,105 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:06:08,106 - INFO - Анализ успешно завершен!
+2025-05-04 13:06:08,106 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:06:08,106 - INFO - ==================================================
+2025-05-04 13:08:54,581 - INFO - ==================================================
+2025-05-04 13:08:54,582 - INFO - Запуск анализа платежных данных
+2025-05-04 13:08:54,582 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:08:55,528 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:08:55,529 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:08:55,529 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:08:55,533 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:08:55,535 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:08:55,549 - INFO - Статистика успешно рассчитана
+2025-05-04 13:08:56,154 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:08:56,160 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:08:56,763 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:08:56,828 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:08:56,828 - INFO - Анализ успешно завершен!
+2025-05-04 13:08:56,829 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:08:56,829 - INFO - ==================================================
+2025-05-04 13:10:13,253 - INFO - ==================================================
+2025-05-04 13:10:13,253 - INFO - Запуск анализа платежных данных
+2025-05-04 13:10:13,254 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:10:14,243 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:10:14,244 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:10:14,245 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:10:14,263 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:10:14,268 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:10:14,302 - INFO - Статистика успешно рассчитана
+2025-05-04 13:10:14,935 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:10:14,942 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:10:15,585 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:10:15,643 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:10:15,643 - INFO - Анализ успешно завершен!
+2025-05-04 13:10:15,643 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:10:15,644 - INFO - ==================================================
+2025-05-04 13:14:52,854 - INFO - ==================================================
+2025-05-04 13:14:52,855 - INFO - Запуск анализа платежных данных
+2025-05-04 13:14:52,855 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:14:53,996 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:14:53,996 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:14:53,996 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:14:54,004 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:14:54,006 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:14:54,025 - INFO - Статистика успешно рассчитана
+2025-05-04 13:14:54,702 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:14:54,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:14:55,295 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:14:55,336 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:14:55,337 - INFO - Анализ успешно завершен!
+2025-05-04 13:14:55,337 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:14:55,337 - INFO - ==================================================
+2025-05-04 13:16:54,165 - INFO - ==================================================
+2025-05-04 13:16:54,165 - INFO - Запуск анализа платежных данных
+2025-05-04 13:16:54,165 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:16:55,078 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:16:55,078 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:16:55,078 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:16:55,084 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:16:55,086 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:16:55,099 - INFO - Статистика успешно рассчитана
+2025-05-04 13:16:55,744 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:16:55,750 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:16:56,365 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:16:56,443 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:16:56,444 - INFO - Анализ успешно завершен!
+2025-05-04 13:16:56,444 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:16:56,444 - INFO - ==================================================
+2025-05-04 13:23:17,044 - INFO - ==================================================
+2025-05-04 13:23:17,044 - INFO - Запуск анализа платежных данных
+2025-05-04 13:23:17,044 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:23:17,958 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:23:17,959 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:23:17,959 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:23:17,964 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:23:17,966 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:23:17,979 - INFO - Статистика успешно рассчитана
+2025-05-04 13:23:18,612 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:23:18,617 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:23:19,196 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:23:19,253 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:23:19,253 - INFO - Анализ успешно завершен!
+2025-05-04 13:23:19,253 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:23:19,253 - INFO - ==================================================
+2025-05-04 13:36:51,698 - INFO - ==================================================
+2025-05-04 13:36:51,698 - INFO - Запуск анализа платежных данных
+2025-05-04 13:36:51,699 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:36:52,694 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:36:52,694 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:36:52,694 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:36:52,700 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:36:52,702 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:36:52,717 - INFO - Статистика успешно рассчитана
+2025-05-04 13:36:53,378 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:36:53,384 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:36:53,971 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:36:54,014 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:36:54,014 - INFO - Анализ успешно завершен!
+2025-05-04 13:36:54,014 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:36:54,015 - INFO - ==================================================
+2025-05-04 13:45:46,323 - INFO - ==================================================
+2025-05-04 13:45:46,323 - INFO - Запуск анализа платежных данных
+2025-05-04 13:45:46,324 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:45:47,241 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:45:47,242 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:45:47,242 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:45:47,247 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:45:47,249 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:45:47,262 - INFO - Статистика успешно рассчитана
+2025-05-04 13:45:47,900 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:45:47,906 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:45:48,555 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:45:48,621 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:45:48,621 - INFO - Анализ успешно завершен!
+2025-05-04 13:45:48,621 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:45:48,621 - INFO - ==================================================
+2025-05-04 13:47:15,801 - INFO - ==================================================
+2025-05-04 13:47:15,802 - INFO - Запуск анализа платежных данных
+2025-05-04 13:47:15,802 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:47:16,943 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:47:16,944 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:47:16,944 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:47:16,950 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:47:16,952 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:47:16,967 - INFO - Статистика успешно рассчитана
+2025-05-04 13:47:17,648 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:47:17,654 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:47:18,233 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:47:18,278 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:47:18,278 - INFO - Анализ успешно завершен!
+2025-05-04 13:47:18,278 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:47:18,278 - INFO - ==================================================
+2025-05-04 13:48:04,471 - INFO - ==================================================
+2025-05-04 13:48:04,472 - INFO - Запуск анализа платежных данных
+2025-05-04 13:48:04,472 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:48:05,501 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:48:05,501 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:48:05,502 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:48:05,507 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:48:05,509 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:48:05,527 - INFO - Статистика успешно рассчитана
+2025-05-04 13:48:06,320 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:48:06,327 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:48:06,955 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:48:07,000 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:48:07,000 - INFO - Анализ успешно завершен!
+2025-05-04 13:48:07,000 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:48:07,000 - INFO - ==================================================
+2025-05-04 13:49:52,747 - INFO - ==================================================
+2025-05-04 13:49:52,747 - INFO - Запуск анализа платежных данных
+2025-05-04 13:49:52,747 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 13:49:53,857 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 13:49:53,858 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 13:49:53,858 - INFO - Очистка данных в листе 'data'
+2025-05-04 13:49:53,863 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 13:49:53,865 - INFO - Данные успешно загружены и обработаны
+2025-05-04 13:49:53,888 - INFO - Статистика успешно рассчитана
+2025-05-04 13:49:54,628 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:49:54,633 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 13:49:55,233 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:49:55,274 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 13:49:55,274 - INFO - Анализ успешно завершен!
+2025-05-04 13:49:55,275 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 13:49:55,275 - INFO - ==================================================
+2025-05-04 14:03:12,735 - INFO - ==================================================
+2025-05-04 14:03:12,735 - INFO - Запуск анализа платежных данных
+2025-05-04 14:03:12,736 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:03:13,658 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:03:13,659 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:03:13,659 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:03:13,664 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:03:13,666 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:03:13,680 - INFO - Статистика успешно рассчитана
+2025-05-04 14:03:14,286 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:03:14,292 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:03:14,776 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:03:14,816 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:03:14,816 - INFO - Анализ успешно завершен!
+2025-05-04 14:03:14,816 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:03:14,816 - INFO - ==================================================
+2025-05-04 14:03:55,127 - INFO - ==================================================
+2025-05-04 14:03:55,127 - INFO - Запуск анализа платежных данных
+2025-05-04 14:03:55,127 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:03:56,196 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:03:56,197 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:03:56,197 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:03:56,202 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:03:56,204 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:03:56,219 - INFO - Статистика успешно рассчитана
+2025-05-04 14:03:57,023 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:03:57,030 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:03:57,616 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:03:57,655 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:03:57,656 - INFO - Анализ успешно завершен!
+2025-05-04 14:03:57,656 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:03:57,656 - INFO - ==================================================
+2025-05-04 14:05:09,726 - INFO - ==================================================
+2025-05-04 14:05:09,726 - INFO - Запуск анализа платежных данных
+2025-05-04 14:05:09,726 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:05:10,705 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:05:10,705 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:05:10,706 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:05:10,710 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:05:10,712 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:05:10,726 - INFO - Статистика успешно рассчитана
+2025-05-04 14:05:11,531 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:05:11,538 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:05:12,134 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:05:12,177 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:05:12,177 - INFO - Анализ успешно завершен!
+2025-05-04 14:05:12,177 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:05:12,177 - INFO - ==================================================
+2025-05-04 14:06:13,438 - INFO - ==================================================
+2025-05-04 14:06:13,438 - INFO - Запуск анализа платежных данных
+2025-05-04 14:06:13,439 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:06:14,360 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:06:14,360 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:06:14,360 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:06:14,365 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:06:14,367 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:06:14,380 - INFO - Статистика успешно рассчитана
+2025-05-04 14:06:15,047 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:06:15,053 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:06:15,622 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:06:15,689 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:06:15,689 - INFO - Анализ успешно завершен!
+2025-05-04 14:06:15,689 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:06:15,689 - INFO - ==================================================
+2025-05-04 14:07:42,018 - INFO - ==================================================
+2025-05-04 14:07:42,018 - INFO - Запуск анализа платежных данных
+2025-05-04 14:07:42,018 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:07:43,072 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:07:43,073 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:07:43,074 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:07:43,079 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:07:43,081 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:07:43,098 - INFO - Статистика успешно рассчитана
+2025-05-04 14:07:43,794 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:07:43,800 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:07:44,413 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:07:44,454 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:07:44,455 - INFO - Анализ успешно завершен!
+2025-05-04 14:07:44,455 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:07:44,455 - INFO - ==================================================
+2025-05-04 14:11:42,115 - INFO - ==================================================
+2025-05-04 14:11:42,115 - INFO - Запуск анализа платежных данных
+2025-05-04 14:11:42,115 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:11:43,083 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:11:43,084 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:11:43,084 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:11:43,089 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:11:43,091 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:11:43,104 - INFO - Статистика успешно рассчитана
+2025-05-04 14:11:43,799 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:11:43,808 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:11:44,395 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:11:44,451 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:11:44,451 - INFO - Анализ успешно завершен!
+2025-05-04 14:11:44,451 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:11:44,451 - INFO - ==================================================
+2025-05-04 14:20:58,122 - INFO - ==================================================
+2025-05-04 14:20:58,122 - INFO - Запуск анализа платежных данных
+2025-05-04 14:20:58,122 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:20:59,054 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:20:59,054 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:20:59,055 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:20:59,059 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:20:59,061 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:20:59,074 - INFO - Статистика успешно рассчитана
+2025-05-04 14:20:59,703 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:20:59,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:21:00,311 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:21:00,375 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:21:00,375 - INFO - Анализ успешно завершен!
+2025-05-04 14:21:00,375 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:21:00,375 - INFO - ==================================================
+2025-05-04 14:21:56,644 - INFO - ==================================================
+2025-05-04 14:21:56,644 - INFO - Запуск анализа платежных данных
+2025-05-04 14:21:56,644 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:21:57,587 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:21:57,588 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:21:57,588 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:21:57,592 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:21:57,595 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:21:57,607 - INFO - Статистика успешно рассчитана
+2025-05-04 14:21:58,240 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:21:58,245 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:21:58,818 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:21:58,901 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:21:58,901 - INFO - Анализ успешно завершен!
+2025-05-04 14:21:58,901 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:21:58,902 - INFO - ==================================================
+2025-05-04 14:26:19,037 - INFO - ==================================================
+2025-05-04 14:26:19,037 - INFO - Запуск анализа платежных данных
+2025-05-04 14:26:19,037 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:26:20,000 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:26:20,000 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:26:20,001 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:26:20,006 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:26:20,009 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:26:20,026 - INFO - Статистика успешно рассчитана
+2025-05-04 14:26:20,668 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:26:20,674 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:26:21,260 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:26:21,344 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:26:21,345 - INFO - Анализ успешно завершен!
+2025-05-04 14:26:21,345 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:26:21,345 - INFO - ==================================================
+2025-05-04 14:29:36,277 - INFO - ==================================================
+2025-05-04 14:29:36,277 - INFO - Запуск анализа платежных данных
+2025-05-04 14:29:36,277 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:29:37,210 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:29:37,211 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:29:37,211 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:29:37,216 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:29:37,218 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:29:37,231 - INFO - Статистика успешно рассчитана
+2025-05-04 14:29:37,856 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:29:37,861 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:29:38,431 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:29:38,493 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:29:38,493 - INFO - Анализ успешно завершен!
+2025-05-04 14:29:38,493 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:29:38,493 - INFO - ==================================================
+2025-05-04 14:32:10,397 - INFO - ==================================================
+2025-05-04 14:32:10,398 - INFO - Запуск анализа платежных данных
+2025-05-04 14:32:10,398 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:32:11,358 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:32:11,358 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:32:11,359 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:32:11,364 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:32:11,366 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:32:11,380 - INFO - Статистика успешно рассчитана
+2025-05-04 14:32:12,049 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:32:12,062 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:32:12,769 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:32:12,828 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:32:12,828 - INFO - Анализ успешно завершен!
+2025-05-04 14:32:12,828 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:32:12,828 - INFO - ==================================================
+2025-05-04 14:33:58,516 - INFO - ==================================================
+2025-05-04 14:33:58,516 - INFO - Запуск анализа платежных данных
+2025-05-04 14:33:58,516 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:33:59,593 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:33:59,593 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:33:59,594 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:33:59,601 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:33:59,604 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:33:59,621 - INFO - Статистика успешно рассчитана
+2025-05-04 14:34:00,440 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:34:00,445 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:34:01,176 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:34:01,217 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:34:01,218 - INFO - Анализ успешно завершен!
+2025-05-04 14:34:01,218 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:34:01,218 - INFO - ==================================================
+2025-05-04 14:35:08,993 - INFO - ==================================================
+2025-05-04 14:35:08,994 - INFO - Запуск анализа платежных данных
+2025-05-04 14:35:08,994 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:35:10,039 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:35:10,039 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:35:10,040 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:35:10,046 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:35:10,048 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:35:10,063 - INFO - Статистика успешно рассчитана
+2025-05-04 14:35:10,702 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:35:10,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:35:11,362 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:35:11,423 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:35:11,424 - INFO - Анализ успешно завершен!
+2025-05-04 14:35:11,424 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:35:11,424 - INFO - ==================================================
+2025-05-04 14:36:19,269 - INFO - ==================================================
+2025-05-04 14:36:19,270 - INFO - Запуск анализа платежных данных
+2025-05-04 14:36:19,270 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:36:20,332 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:36:20,333 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:36:20,333 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:36:20,339 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:36:20,341 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:36:20,357 - INFO - Статистика успешно рассчитана
+2025-05-04 14:36:21,081 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:36:21,088 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:36:21,671 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:36:21,714 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:36:21,715 - INFO - Анализ успешно завершен!
+2025-05-04 14:36:21,715 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:36:21,715 - INFO - ==================================================
+2025-05-04 14:37:04,477 - INFO - ==================================================
+2025-05-04 14:37:04,477 - INFO - Запуск анализа платежных данных
+2025-05-04 14:37:04,477 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:37:05,517 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:37:05,517 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:37:05,518 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:37:05,523 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:37:05,525 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:37:05,539 - INFO - Статистика успешно рассчитана
+2025-05-04 14:37:06,260 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:37:06,265 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:37:06,827 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:37:06,868 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:37:06,868 - INFO - Анализ успешно завершен!
+2025-05-04 14:37:06,868 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:37:06,868 - INFO - ==================================================
+2025-05-04 14:48:28,236 - INFO - ==================================================
+2025-05-04 14:48:28,236 - INFO - Запуск анализа платежных данных
+2025-05-04 14:48:28,236 - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 14:48:29,168 - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 14:48:29,169 - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 14:48:29,169 - INFO - Очистка данных в листе 'data'
+2025-05-04 14:48:29,173 - INFO - Очистка данных в листе 'method_group'
+2025-05-04 14:48:29,175 - INFO - Данные успешно загружены и обработаны
+2025-05-04 14:48:29,189 - INFO - Статистика успешно рассчитана
+2025-05-04 14:48:29,828 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:48:29,834 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 14:48:30,425 - INFO - График сохранен в C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:48:30,493 - INFO - Данные сохранены в C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+2025-05-04 14:48:30,493 - INFO - Анализ успешно завершен!
+2025-05-04 14:48:30,493 - INFO - Результаты сохранены в:
+- C:\Users\Public\PythonProject\payment analytics\data/processed/analysis.xlsx
+- C:\Users\Public\PythonProject\payment analytics\data/results/plots/combined_plot.png
+2025-05-04 14:48:30,493 - INFO - ==================================================
