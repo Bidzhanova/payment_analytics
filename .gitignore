@@ -28,6 +28,7 @@ settings.ini
 
 # Логи и отладочные данные
 debug.log
+payment_analytics.log
 *.bak
 *.tmp
 

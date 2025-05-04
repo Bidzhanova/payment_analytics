@@ -322,3 +322,21 @@
 2025-05-04 16:21:34,999 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
 2025-05-04 16:21:35,000 - __main__ - INFO - Анализ успешно завершен!
 2025-05-04 16:21:35,000 - __main__ - INFO - ==================================================
+2025-05-04 16:57:28,808 - __main__ - INFO - ==================================================
+2025-05-04 16:57:28,808 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:57:28,809 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\raw/input.xlsx
+2025-05-04 16:57:28,809 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:57:28,809 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:57:29,611 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:57:29,612 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:57:29,613 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:57:29,618 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:57:29,620 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:57:29,635 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:57:30,265 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:57:30,272 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:57:30,977 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:57:30,980 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:57:31,037 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:57:31,037 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:57:31,038 - __main__ - INFO - ==================================================
