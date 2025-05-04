@@ -1,0 +1,324 @@
+2025-05-04 15:41:20,739 - __main__ - INFO - ==================================================
+2025-05-04 15:41:20,740 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:41:20,740 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/input.xlsx
+2025-05-04 15:41:20,740 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:41:20,740 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:41:20,740 - __main__ - CRITICAL - Файл не найден: Файл C:\Users\Public\PythonProject\payment analytics\data/input.xlsx не найден
+2025-05-04 15:43:13,862 - __main__ - INFO - ==================================================
+2025-05-04 15:43:13,862 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:43:13,862 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 15:43:13,862 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:43:13,862 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:43:14,720 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 15:43:14,720 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 15:43:14,721 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 15:43:14,725 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 15:43:14,727 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 15:43:14,740 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 15:43:15,525 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:43:15,530 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:43:16,230 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:43:16,231 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:43:16,287 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:43:16,287 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 15:43:16,287 - __main__ - INFO - ==================================================
+2025-05-04 15:49:17,916 - __main__ - INFO - ==================================================
+2025-05-04 15:49:17,917 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:49:17,917 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 15:49:17,917 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:49:17,917 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:49:18,755 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 15:49:18,756 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 15:49:18,756 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 15:49:18,761 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 15:49:18,763 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 15:49:18,776 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 15:49:19,413 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:49:19,418 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:49:20,151 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:49:20,151 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:49:20,215 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:49:20,215 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 15:49:20,216 - __main__ - INFO - ==================================================
+2025-05-04 15:52:49,062 - __main__ - INFO - ==================================================
+2025-05-04 15:52:49,062 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:52:49,062 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 15:52:49,062 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:52:49,062 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:52:49,937 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 15:52:49,937 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 15:52:49,937 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 15:52:49,942 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 15:52:49,944 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 15:52:49,957 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 15:52:50,599 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:52:50,604 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:52:51,323 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:52:51,324 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:52:51,363 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:52:51,363 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 15:52:51,363 - __main__ - INFO - ==================================================
+2025-05-04 15:56:21,438 - __main__ - INFO - ==================================================
+2025-05-04 15:56:21,438 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:56:21,438 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 15:56:21,438 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:56:21,438 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:56:22,259 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 15:56:22,260 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 15:56:22,260 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 15:56:22,265 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 15:56:22,267 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 15:56:22,280 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 15:56:22,952 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:56:22,959 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:56:23,726 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:56:23,727 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:56:23,788 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:56:23,788 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 15:56:23,789 - __main__ - INFO - ==================================================
+2025-05-04 15:58:13,957 - __main__ - INFO - ==================================================
+2025-05-04 15:58:13,957 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:58:13,958 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 15:58:13,958 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:58:13,958 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:58:14,760 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 15:58:14,761 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 15:58:14,761 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 15:58:14,766 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 15:58:14,768 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 15:58:14,782 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 15:58:15,422 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:58:15,429 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:58:16,137 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:58:16,138 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:58:16,197 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:58:16,197 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 15:58:16,197 - __main__ - INFO - ==================================================
+2025-05-04 15:59:38,037 - __main__ - INFO - ==================================================
+2025-05-04 15:59:38,037 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 15:59:38,037 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 15:59:38,037 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:59:38,037 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:59:38,917 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 15:59:38,917 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 15:59:38,918 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 15:59:38,922 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 15:59:38,924 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 15:59:38,938 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 15:59:39,637 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:59:39,643 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 15:59:40,371 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:59:40,372 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 15:59:40,417 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 15:59:40,417 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 15:59:40,417 - __main__ - INFO - ==================================================
+2025-05-04 16:00:55,935 - __main__ - INFO - ==================================================
+2025-05-04 16:00:55,935 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:00:55,935 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:00:55,936 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:00:55,936 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:00:56,746 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:00:56,747 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:00:56,747 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:00:56,752 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:00:56,754 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:00:56,767 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:00:57,412 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:00:57,420 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:00:58,188 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:00:58,188 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:00:58,254 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:00:58,254 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:00:58,254 - __main__ - INFO - ==================================================
+2025-05-04 16:01:27,652 - __main__ - INFO - ==================================================
+2025-05-04 16:01:27,653 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:01:27,653 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:01:27,653 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:01:27,653 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:01:28,493 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:01:28,494 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:01:28,494 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:01:28,499 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:01:28,501 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:01:28,514 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:01:29,168 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:01:29,174 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:01:30,005 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:01:30,006 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:01:30,047 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:01:30,048 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:01:30,048 - __main__ - INFO - ==================================================
+2025-05-04 16:03:54,961 - __main__ - INFO - ==================================================
+2025-05-04 16:03:54,961 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:03:54,962 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:03:54,962 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:03:54,962 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:03:56,055 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:03:56,055 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:03:56,056 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:03:56,060 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:03:56,062 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:03:56,077 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:03:56,829 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:03:56,836 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:03:57,725 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:03:57,725 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:03:57,768 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:03:57,769 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:03:57,769 - __main__ - INFO - ==================================================
+2025-05-04 16:04:58,909 - __main__ - INFO - ==================================================
+2025-05-04 16:04:58,909 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:04:58,909 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:04:58,909 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:04:58,909 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:04:59,785 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:04:59,786 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:04:59,786 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:04:59,791 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:04:59,793 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:04:59,806 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:05:00,739 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:05:00,745 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:05:01,581 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:05:01,581 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:05:01,623 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:05:01,623 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:05:01,623 - __main__ - INFO - ==================================================
+2025-05-04 16:10:59,471 - __main__ - INFO - ==================================================
+2025-05-04 16:10:59,472 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:10:59,472 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:10:59,472 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:10:59,472 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:11:00,561 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:11:00,562 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:11:00,563 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:11:00,569 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:11:00,571 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:11:00,586 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:11:01,294 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:11:01,301 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:11:02,062 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:11:02,062 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:11:02,105 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:11:02,105 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:11:02,106 - __main__ - INFO - ==================================================
+2025-05-04 16:11:27,465 - __main__ - INFO - ==================================================
+2025-05-04 16:11:27,466 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:11:27,466 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:11:27,466 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:11:27,466 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:11:28,403 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:11:28,404 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:11:28,404 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:11:28,411 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:11:28,414 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:11:28,430 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:11:29,214 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:11:29,221 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:11:30,029 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:11:30,029 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:11:30,068 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:11:30,068 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:11:30,068 - __main__ - INFO - ==================================================
+2025-05-04 16:12:03,573 - __main__ - INFO - ==================================================
+2025-05-04 16:12:03,573 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:12:03,573 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:12:03,573 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:12:03,573 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:12:04,474 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:12:04,474 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:12:04,475 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:12:04,480 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:12:04,482 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:12:04,496 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:12:05,226 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:12:05,233 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:12:05,981 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:12:05,981 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:12:06,024 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:12:06,024 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:12:06,024 - __main__ - INFO - ==================================================
+2025-05-04 16:12:52,821 - __main__ - INFO - ==================================================
+2025-05-04 16:12:52,821 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:12:52,821 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:12:52,821 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:12:52,821 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:12:53,607 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:12:53,608 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:12:53,608 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:12:53,613 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:12:53,615 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:12:53,627 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:12:54,278 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:12:54,284 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:12:54,996 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:12:54,996 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:12:55,037 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:12:55,037 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:12:55,037 - __main__ - INFO - ==================================================
+2025-05-04 16:15:15,020 - __main__ - INFO - ==================================================
+2025-05-04 16:15:15,020 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:15:15,020 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:15:15,020 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:15:15,020 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:15:15,844 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:15:15,844 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:15:15,845 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:15:15,850 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:15:15,852 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:15:15,867 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:15:16,532 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:15:16,539 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:15:17,345 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:15:17,345 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:15:17,386 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:15:17,386 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:15:17,386 - __main__ - INFO - ==================================================
+2025-05-04 16:16:04,996 - __main__ - INFO - ==================================================
+2025-05-04 16:16:04,996 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:16:04,996 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:16:04,996 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:16:04,996 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:16:05,832 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:16:05,833 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:16:05,833 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:16:05,838 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:16:05,840 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:16:05,852 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:16:06,468 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:16:06,475 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:16:07,248 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:16:07,249 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:16:07,289 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:16:07,289 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:16:07,289 - __main__ - INFO - ==================================================
+2025-05-04 16:19:47,624 - __main__ - INFO - ==================================================
+2025-05-04 16:19:47,624 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:19:47,624 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx
+2025-05-04 16:19:47,625 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:19:47,625 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:19:47,625 - __main__ - CRITICAL - Файл не найден: Файл C:\Users\Public\PythonProject\payment analytics\data/raw/test_data.xlsx не найден
+2025-05-04 16:20:48,902 - __main__ - INFO - ==================================================
+2025-05-04 16:20:48,902 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:20:48,902 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\raw/input.xlsx
+2025-05-04 16:20:48,902 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:20:48,902 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:20:48,903 - __main__ - CRITICAL - Файл не найден: Файл C:\Users\Public\PythonProject\payment analytics\raw/input.xlsx не найден
+2025-05-04 16:21:32,528 - __main__ - INFO - ==================================================
+2025-05-04 16:21:32,528 - __main__ - INFO - Запуск анализа платежных данных
+2025-05-04 16:21:32,528 - __main__ - INFO - Входной файл: C:\Users\Public\PythonProject\payment analytics\raw/input.xlsx
+2025-05-04 16:21:32,528 - __main__ - INFO - Выходной Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:21:32,528 - __main__ - INFO - Выходной график: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:21:33,428 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'data'
+2025-05-04 16:21:33,429 - srs.validation - WARNING - Обнаружены пропущенные значения в листе 'method_group'
+2025-05-04 16:21:33,429 - srs.validation - INFO - Очистка данных в листе 'data'
+2025-05-04 16:21:33,436 - srs.validation - INFO - Очистка данных в листе 'method_group'
+2025-05-04 16:21:33,439 - __main__ - INFO - Данные успешно загружены и проверены
+2025-05-04 16:21:33,463 - __main__ - INFO - Статистика успешно рассчитана
+2025-05-04 16:21:34,219 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:21:34,224 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-04 16:21:34,944 - srs.vizualization - INFO - График успешно сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:21:34,944 - __main__ - INFO - График сохранен: C:\Users\Public\PythonProject\payment analytics\results/plot.png
+2025-05-04 16:21:34,999 - __main__ - INFO - Результаты сохранены в Excel: C:\Users\Public\PythonProject\payment analytics\results/output.xlsx
+2025-05-04 16:21:35,000 - __main__ - INFO - Анализ успешно завершен!
+2025-05-04 16:21:35,000 - __main__ - INFO - ==================================================

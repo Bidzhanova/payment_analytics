@@ -1,16 +1,11 @@
 import os
+from pathlib import Path
 
-# Пути относительно корня проекта
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = Path(__file__).parent.parent
 
-INPUT_FILE = os.path.join(BASE_DIR, 'data/raw/test_data.xlsx')
-OUTPUT_EXCEL = os.path.join(BASE_DIR, 'data/processed/analysis.xlsx')
-OUTPUT_PLOT = os.path.join(BASE_DIR, 'data/results/plots/combined_plot.png')
+class Settings:
+    INPUT_FILE = os.path.join(BASE_DIR, "raw/input.xlsx")
+    OUTPUT_EXCEL = os.path.join(BASE_DIR, "results/output.xlsx")
+    OUTPUT_PLOT = os.path.join(BASE_DIR, "results/plot.png")
 
-# Настройки графиков
-PLOT_SETTINGS = {
-    'style': 'seaborn-v0_8',
-    'size': (16, 12),
-    'palette': 'viridis',
-    'dpi': 150
-}
+settings = Settings()

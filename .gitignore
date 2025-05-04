@@ -1,54 +1,36 @@
-# IDE и редакторы
-.idea/
-*.swp
-*.swo
-
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+.python-*
+.pytest_cache/
+.ipynb_checkpoints/
+*.ipynb
 
-# Virtualenv
+# Виртуальные окружения
 venv/
 env/
-ENV/
-.env/
 .venv/
+venv*/
+ENV/
 
-# Тесты и покрытие
-.coverage
-htmlcov/
-.pytest_cache/
-.tox/
-.nox/
-
-# Операционные системы
+# Системные файлы
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Конфигурационные файлы
+.env
 *.cfg
-*.ini
 *.local
+settings.ini
+
+# Логи и отладочные данные
+debug.log
+*.bak
+*.tmp
 
 # PyCharm
+.idea/
 *.iml
-
